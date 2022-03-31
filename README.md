@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @suba02 parkavi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<html>
+        <head>
 
-<!---
-suba02/suba02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                <title>
+                        website venba </title>
+        </head>
+                <body>
+                        <p>ssubaram</p>
+                </body>
+</html>
